@@ -9,7 +9,3 @@ To do
 * Add a contact page to the application to demonstrate form implementation and validation in AngularJS
 * Add tests for the majority of the application and accompanying tutorials
 
-Licence
-===
-
-The application and code are licenced under MIT.
